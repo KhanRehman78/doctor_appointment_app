@@ -1,0 +1,156 @@
+String doctorInfo = "Dr. Carlos Illich Navarro is triple board certified "
+    "in plastic surgery and a university professor. He "
+    "is widely recognized for his exceptional talent and"
+    " artistry in plastic surgery. \n\nDr. Carlos Illich"
+    " Navarro  is recognized for his ability to perform "
+    "surgical enhancements that appear fresh, natural,"
+    " and suit you – never pulled, tight or unnatural.";
+String mommyMakeover = "The mommy makeover surgery entails a combination "
+    "of different surgeries. Each mommy makeover is "
+    "tailored to the patient's preferences.\n\nA "
+    "mommy makeover can include any combination of the "
+    "following: tummy tuck, breast augmentation, breast "
+    "lift, liposuction, Brazilian butt lift and vaginal"
+    " rejuvenation surgery.";
+String breastAugmentation =
+    "Breast augmentation is a surgical breast enhancement procedure"
+    " designed to increase the size, shape and fullness of the "
+    "breasts with saline or silicone breast implants.\n\nDr.Navarro "
+    "will evaluate several factors, including:\n\n-Breast size you "
+    "desire\n-Natural breast size and breast tissue\n-Body frame "
+    "and dimensions\n-Breast Asymmetry";
+String breastLift = "A breast lift, also known as mastopexy, raises the breasts"
+    " by removing excess skin and tightening the surrounding"
+    " tissue to create a more youthful breast contour.\n\nA "
+    "breast lift can rejuvenate your figure with a breast "
+    "profile that is more youthful and uplifted. A woman's "
+    "breasts often change over time, losing their youthful "
+    "shape and firmness.";
+String breastReduction = "Breast reduction is a surgery that removes"
+    " excess breast tissue from the disproportionately large "
+    "breasts.\n\nBreast Reduction allowsDr. Carlos Illich "
+    "Navarroto make the breasts smaller and lift them. The "
+    "result is a more proportionate breast size that fits your body.";
+String liposuction = "Liposuction is a cosmetic surgical procedure for "
+    "removing exorbitant amounts of unwanted fat tissue. With "
+    "liposuction, patients can experience more desirable body shape "
+    "and feel more secure with their image.\n\nThe most popular areas "
+    "where people want to reduce fat by having liposuction are:"
+    "\n\n- Waist\n"
+    "- Flanks\n"
+    "- Hips\n"
+    "- Upper Arms\n"
+    "- Lower Abdomen\n"
+    "- Upper Abdomen\n"
+    "- Buttocks\n"
+    "- Inner Thighs\n"
+    "- Outer Thighs\n"
+    "- Lower Legs";
+String tummyTuck = "A tummy tuck surgery, or more accurately "
+    "an abdominoplasty, removes excess skin and fat and, restore"
+    " weakened and or separated muscles resulting in an abdominal "
+    "profile that is smooth and firm."
+    "\n\nThe loose skin on your stomach may give you the"
+    " appearance of having excess fat when there actually is only "
+    "extra skin that is covering your profile.";
+String brazilianButtLift =
+    "A Brazilian Butt Lift is an extremely popular procedure"
+    " that reshapes and enhances the size of "
+    "the buttocks.\n\n"
+    "Patients who want a buttock enhancement without synthetic "
+    "materials being added into their body may benefit greatly "
+    "from a Brazilian Butt Lift because it uses your own fat to "
+    "provide the volume.";
+String bodyContouring = "Although massiveweight loss "
+    "surgery(bariatric surgery) can help an individual"
+    " meet some of his/her weight goals, excessive amounts "
+    "of hanging skin may remain."
+    "\n\nBody contouring, is a surgical procedure "
+    "that aims to reshape an area of the body. It may involve "
+    "procedures to:\n\n"
+    "1 . Get rid of extra skin.    \n"
+    "2. Eliminate excess fat.     \n"
+    "3. Reshape or contour the area.";
+String armLift = "An arm lift is a safe, effective "
+    "procedure to remove excess fat and tissue in the upper arm. "
+    "The upper arm has a tendency to collect fat, contributing to "
+    "a saggy appearance."
+    "\n\nAn arm lift procedure specifically addresses the underside "
+    "of the upper arm, from the armpit to the elbow."
+    "\n\nAn arm lift provides a range of benefits for patients, "
+    "including the following:\n\n"
+    "- Tighter, firmer skin\n"
+    "- Tighter, more sculpted under-arm tissue\n"
+    "- More ease and comfort due to a lack ofirritation from skin rubbing"
+    "\n- No more hygiene concerns in the are aroundthe arms"
+    "\n- Elimination of unwanted skin and fat \n"
+    "- Improved self-esteem and confidence";
+String labiaplasty = "Labiaplasty or vaginal rejuvenation is a "
+    "surgical procedure designed to correct issues with the labia "
+    "majora (outer vaginal lips) and the labia minora "
+    "(inner vaginal lips)."
+    "\n\nThere are several reasons why women choose to have "
+    "labiaplasty performed including: "
+    "\n\n- Easing emotional discomfort"
+    "\n- Reducing embarrassment"
+    "\n- Correcting hygienic problems"
+    "\n- Minimizing irritation"
+    "\n- Improving sexual stimulation"
+    "\n- Decreasing discomfort in sports";
+String faceLift = "A facelift is a surgical procedure that "
+    "involves lifting, trimming, and tightening the skin and"
+    " tissues of the lower face and neck via discreet incisions. "
+    "The result is a beautifully refreshed, more youthful appearance."
+    "\n\nAnyone experiencing sagging and loss of tone in the lower "
+    "face and neck may benefit from a facelift, which tightens, "
+    "sculpts, and smooths these areas.";
+String neckLift =
+    "Neck lift surgery can eliminate excess fat and sagging skin on your neck. The procedure also includes tightening your platysma muscle.  A neck lift is a cosmetic surgery that can give your neck a more contoured and youthful appearance."
+    "\n\nYou may wish to pursue neck lift surgery if you have: "
+    "\n\n- Excess fat in your neck."
+    "\n- Horizontal bands of skin."
+    "\n- Loose skin in your neck."
+    "\n- Neck skin that appears saggy."
+    "\n- Wrinkles in your neck.";
+String eyelidSurgery = "Blepharoplasty or eyelid surgery is a "
+    "surgical rejuvenating procedure."
+    "\n\nAn upper blepharoplasty may include excision of "
+    "drooping eyelid skin, repair of the muscle that opens the eyes, "
+    "and removal of excess fat."
+    "\n\nA lower blepharoplasty corrects under-eye bags with "
+    "repositioning and possible removal of redundant fat and skin. "
+    "It also treats sagging lower lids that may reveal excess white "
+    "space beneath your iris.";
+String rhinoplasty = "Rhinoplasty is a popular cosmetic surgery procedure that "
+        "reshapes your nose. It improves your appearance and how you breathe."
+        "\n\nRhinoplasty, sometimes referred to as a " +
+    "nose job" +
+    "or " +
+    "nose "
+        "reshaping by patients, enhances facial harmony and the proportions "
+        "of your nose.\n\nRhinoplasty can help you address a variety of aesthetic concerns, including:"
+        "\n\n- Nose that is too small, too large or too wide"
+        "\n- An irregularly shaped nose"
+        "\n- A tip that is too large, small, wide or droopy"
+        "\n- A bent, crooked or unattractive bridge"
+        "\n- Nostrils that are too narrow or constricted"
+        "\n- Nostrils that are too wide"
+        "\n- Nostrils that are upturned or asymmetrical"
+        "\n- A broken nose";
+String Gynecomastia =
+    "Gynecomastia is a condition of over development or enlargement of the breast tissue in men or boys. Men at all ages can experience gynecomastia."
+    "\n\nGynecomastia is often caused by changes in levels of the female hormone (estrogen) and the male hormone (testosterone)."
+    "\n\nSome medical conditions may also cause gynecomastia including:"
+    "\n\n- Liver disease"
+    "\n- Kidney disease"
+    "\n- Lung cancer"
+    "\n- Testicular cancer"
+    "\n- Tumors of the adrenal or pituitary glands"
+    "\n- Thyroid disorders"
+    "\n- Injury or trauma"
+    "\n- Obesity";
+
+
+Map<String,String> procedureMap = {
+  "Gynecomastia":Gynecomastia,
+};
